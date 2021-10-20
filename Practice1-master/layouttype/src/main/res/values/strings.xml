@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LayoutType</string>
+    <string name="buttton">Buttton</string>
+
+    <string name="mobile"><font size="16">(Mobile)</font></string>
+    <string name="contact_name">Name:</string>
+    <string name="contact_org">Organisation:</string>
+    <string name="save_contact">Save</string>
+    <string name="new_life_for_mirea_activity">new life for Mirea activity</string>
+    <string name="first_button">Первая кнопка</string>
+    <string name="second_button">Вторая кнопка</string>
+    <string name="third_button">Третья кнопка</string>
+    <string name="fourth_button">Четвёртая кнопка</string>
+    <string name="fifth_button">Пятая кнопка</string>
+    <string name="sixth_button">Шестая кнопка</string>
+    <string name="tony_stark">Tony Stark</string>
+    <string name="mirea">Mirea</string>
+    <string name="number">+7(911)111-11-11</string>
+</resources>

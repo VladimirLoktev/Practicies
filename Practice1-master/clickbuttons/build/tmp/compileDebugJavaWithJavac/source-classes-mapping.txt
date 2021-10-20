@@ -1,0 +1,4 @@
+ru/mirea/kostushov/clickbuttons/ButtonsActivity.java
+ ru.mirea.kostushov.clickbuttons.ButtonsActivity
+ru/mirea/kostushov/clickbuttons/BuildConfig.java
+ ru.mirea.kostushov.clickbuttons.BuildConfig

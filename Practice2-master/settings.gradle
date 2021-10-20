@@ -1,0 +1,7 @@
+include ':toast_app'
+include ':notification_app'
+include ':multi_activity'
+include ':inten_filter'
+include ':dialog_app'
+include ':app'
+rootProject.name = "Practice2"

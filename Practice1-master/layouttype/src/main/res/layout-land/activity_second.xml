@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="*">
+
+    <EditText
+        android:id="@+id/edit_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/new_life_for_mirea_activity" />
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/button_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/first_button" />
+
+        <Button
+            android:id="@+id/button_two"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/second_button" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/button_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/third_button" />
+
+        <Button
+            android:id="@+id/button_four"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fourth_button" />
+    </TableRow>
+
+    <TableRow>
+
+        <Button
+            android:id="@+id/button_five"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fifth_button" />
+
+        <Button
+            android:id="@+id/button_six"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/sixth_button" />
+    </TableRow>
+</TableLayout>

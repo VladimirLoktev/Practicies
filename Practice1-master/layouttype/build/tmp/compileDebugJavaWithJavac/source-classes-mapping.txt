@@ -1,0 +1,4 @@
+ru/mirea/kostushov/layouttype/BuildConfig.java
+ ru.mirea.kostushov.layouttype.BuildConfig
+ru/mirea/kostushov/layouttype/LayuotActivity.java
+ ru.mirea.kostushov.layouttype.LayuotActivity

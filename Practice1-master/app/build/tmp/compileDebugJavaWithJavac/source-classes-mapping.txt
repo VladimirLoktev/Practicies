@@ -1,0 +1,4 @@
+ru/mirea/kostushov/practice1/BuildConfig.java
+ ru.mirea.kostushov.practice1.BuildConfig
+ru/mirea/kostushov/practice1/MainActivity.java
+ ru.mirea.kostushov.practice1.MainActivity

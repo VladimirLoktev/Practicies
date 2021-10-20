@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Click Buttons</string>
+    <string name="clicked_button_ok">Нажата кнопка OK</string>
+    <string name="clicked_button_cancel">Нажата кнопка Cancel</string>
+    <string name="text_view_default">TextView</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">CANCEL</string>
+</resources>

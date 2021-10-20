@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Practice3.iml" filepath="$PROJECT_DIR$/.idea/modules/Practice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Practice3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Practice3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intent_app/Practice3.intent_app.iml" filepath="$PROJECT_DIR$/.idea/modules/intent_app/Practice3.intent_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/result_app/Practice3.result_app.iml" filepath="$PROJECT_DIR$/.idea/modules/result_app/Practice3.result_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/share_app/Practice3.share_app.iml" filepath="$PROJECT_DIR$/.idea/modules/share_app/Practice3.share_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple_fragment_app/Practice3.simple_fragment_app.iml" filepath="$PROJECT_DIR$/.idea/modules/simple_fragment_app/Practice3.simple_fragment_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/system_intent_app/Practice3.system_intent_app.iml" filepath="$PROJECT_DIR$/.idea/modules/system_intent_app/Practice3.system_intent_app.iml" />
+    </modules>
+  </component>
+</project>
